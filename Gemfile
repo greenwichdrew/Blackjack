@@ -5,3 +5,4 @@ source 'https://rubygems.org'
 # gem 'rack', '~> 1.1'
 #
 # See bundler.io for more info.
+gem 'pry-byebug'
